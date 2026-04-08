@@ -35,7 +35,7 @@ This project analyzes cab booking data using SQL to uncover demand trends, peak 
 ## 📂 Files Included
 
 * ride_pulse_queries.sql
-* dataset.csv (optional)
+* dataset.csv
 
 ## 🧠 SQL Concepts Used
 
